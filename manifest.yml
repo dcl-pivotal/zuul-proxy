@@ -1,4 +1,4 @@
 ---
 applications:
-- name: simple-starter-RI
-  path: target/simple-starter-1.0.jar
+- name: Zuul-ProxyServer
+  path: target/ZuulProxyServer-1.0.jar
