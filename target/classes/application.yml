@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    foos:
+      path: /resources/**
+      url: https://simple-starter-ri.cfapps.io/api/v1/resources
